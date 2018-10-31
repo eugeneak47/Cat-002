@@ -1,0 +1,17 @@
+body{
+    background-color: #1c7430;
+}
+table,td,th{
+    border: 2px solid crimson;
+    border-collapse: collapse
+}
+table{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: #bee5eb;
+    border-radius: 10px;
+}
+td,th{
+    paddind-left: 10px;
+}
